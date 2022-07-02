@@ -1,2 +1,2 @@
 # K
-An infinitely extensible base resource programming language k
+An infinitely extensible base programming language k
