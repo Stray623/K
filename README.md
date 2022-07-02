@@ -1,2 +1,2 @@
-# AIEBRB-K
-An infinitely extensible base resource base-k
+# K
+An infinitely extensible base resource k
